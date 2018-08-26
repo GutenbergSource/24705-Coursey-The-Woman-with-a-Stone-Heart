@@ -1,0 +1,36 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="217" filedate="2018-08-26 13:00:15" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 22:03:56" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="151" filedate="2018-08-26 13:00:15" width="12px" height="12px">
+</image>
+<image path="images/new-cover-tn.jpg" filesize="14249" filedate="2018-08-26 13:00:15" width="213px" height="320px">
+</image>
+<image path="images/new-cover.jpg" filesize="60808" filedate="2018-08-26 13:00:15" width="480px" height="720px">
+</image>
+<image path="images/ornament.gif" filesize="851" filedate="2018-08-26 13:00:15" width="53px" height="53px">
+</image>
+<image path="images/p010.jpg" filesize="69508" filedate="2018-08-26 13:00:15" width="440px" height="614px">
+</image>
+<image path="images/p029.gif" filesize="91891" filedate="2018-08-26 13:00:15" width="504px" height="720px">
+</image>
+<image path="images/p039.jpg" filesize="32803" filedate="2018-08-26 13:00:15" width="448px" height="626px">
+</image>
+<image path="images/p061.jpg" filesize="20638" filedate="2018-08-26 13:00:15" width="175px" height="470px">
+</image>
+<image path="images/p082.jpg" filesize="31765" filedate="2018-08-26 13:00:15" width="396px" height="250px">
+</image>
+<image path="images/p100.jpg" filesize="73696" filedate="2018-08-26 13:00:15" width="430px" height="506px">
+</image>
+<image path="images/p113.jpg" filesize="68401" filedate="2018-08-26 13:00:15" width="442px" height="608px">
+</image>
+<image path="images/p126.jpg" filesize="76071" filedate="2018-08-26 13:00:15" width="439px" height="533px">
+</image>
+<image path="images/p129.jpg" filesize="78146" filedate="2018-08-26 13:00:15" width="433px" height="623px">
+</image>
+<image path="images/p139.jpg" filesize="42881" filedate="2018-08-26 13:00:15" width="422px" height="282px">
+</image>
+<image path="images/titlepage.gif" filesize="12395" filedate="2018-08-26 13:00:15" width="452px" height="720px">
+</image>
+</images>
